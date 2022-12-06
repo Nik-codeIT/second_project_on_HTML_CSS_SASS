@@ -84,7 +84,8 @@
   letter-spacing: 0.04em;
   color: #1F3F68;
 }
-.h3_adress_phone {
+
+.h3_phone {
   padding-top: 40px;
   padding-bottom: 24px;
   font-family: "Roboto";
@@ -95,7 +96,8 @@
   letter-spacing: 0.04em;
   color: #1F3F68;
 }
-.h3_adress_online {
+
+.h3_online {
   padding-top: 40px;
   padding-bottom: 24px;
   font-family: "Roboto";
@@ -106,7 +108,8 @@
   letter-spacing: 0.04em;
   color: #1F3F68;
 }
-.h3_adress_send {
+
+.h3_send {
   padding-top: 56px;
   padding-left: 56px;
   font-family: "Roboto";
@@ -355,7 +358,6 @@ hr {
   }
   .header {
     padding-top: 18px;
-    max-width: 1024px;
   }
   .h4_contact {
     max-width: 520px;

@@ -86,44 +86,45 @@
     line-height: 30px;
     letter-spacing: 0.04em;
     color: #1F3F68;
-
-    &_phone {
-        padding-top: 40px;
-        padding-bottom: 24px;
-        font-family: 'Roboto';
-        font-style: normal;
-        font-weight: 500;
-        font-size: 20px;
-        line-height: 30px;
-        letter-spacing: 0.04em;
-        color: #1F3F68;
-    }
-
-    &_online {
-        padding-top: 40px;
-        padding-bottom: 24px;
-        font-family: 'Roboto';
-        font-style: normal;
-        font-weight: 500;
-        font-size: 20px;
-        line-height: 30px;
-        letter-spacing: 0.04em;
-        color: #1F3F68;
-    }
-
-    &_send {
-        padding-top: 56px;
-        padding-left: 56px;
-        font-family: 'Roboto';
-        font-style: normal;
-        font-weight: 500;
-        font-size: 20px;
-        line-height: 30px;
-        letter-spacing: 0.04em;
-        color: #1F3F68;
-    }
-
 }
+
+.h3_phone {
+    padding-top: 40px;
+    padding-bottom: 24px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.04em;
+    color: #1F3F68;
+}
+
+.h3_online {
+    padding-top: 40px;
+    padding-bottom: 24px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.04em;
+    color: #1F3F68;
+}
+
+.h3_send {
+    padding-top: 56px;
+    padding-left: 56px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.04em;
+    color: #1F3F68;
+}
+
+
 
 
 
@@ -400,8 +401,6 @@ hr {
 
     .header {
         padding-top: 18px;
-        max-width: 1024px;
-
     }
 
     .h4_contact {
@@ -501,6 +500,7 @@ hr {
 
 
 @media (max-width: 844px) {
+
     .img_style {
         padding-left: 15px;
     }
