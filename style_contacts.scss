@@ -252,8 +252,7 @@ hr {
 
 .map {
     margin-top: 96px;
-    width: 1140px;
-    max-height: 480px;
+    width: 100%;
 }
 
 
@@ -439,8 +438,7 @@ hr {
 
     .map {
         margin-top: 64px;
-        max-width: 768px;
-        max-height: 390px;
+
     }
 
     .footer .footer_text {
@@ -500,6 +498,9 @@ hr {
 
 
 @media (max-width: 844px) {
+    .middle {
+        max-width: 319px;
+    }
 
     .img_style {
         padding-left: 15px;
@@ -552,8 +553,6 @@ hr {
 
     .map {
         margin-top: 32px;
-        max-width: 390px;
-        max-height: 349px;
         margin-bottom: 32px;
     }
 
@@ -634,7 +633,8 @@ hr {
         text-align: center;
         letter-spacing: 0.05em;
         color: #FFFFFF;
-        margin-left: 128px;
+        margin-left: 50px;
+
     }
 
     .footer .footer-info {
