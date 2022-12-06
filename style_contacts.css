@@ -478,7 +478,7 @@ hr {
   .footer {
     padding-top: 18px;
     padding-bottom: 32px;
-    margin-top: 50px;
+    margin-top: 0;
   }
   .footer_heading {
     font-family: "Roboto";
